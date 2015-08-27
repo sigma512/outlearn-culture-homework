@@ -12,6 +12,8 @@
         {"page" : "./pages/welcome.md"},
         {"module" : "netflix-culture-deck"},
         {"module" : "hubspot-culture-code"},
+        {"module" : "why-culture-matters"},
+        {"module" : "outlearn-values-exercise"},
         {"page" : "./pages/closing.md"}
       ]
     }
@@ -19,7 +21,9 @@
 
   "modules" : [
     {"olm" : "./modules/netflix-culture-deck.md"},
-    {"olm" : "./modules/hubspot-culture-code.md"}
+    {"olm" : "./modules/hubspot-culture-code.md"},
+    {"olm" : "./modules/why-culture-matters.md"},
+    {"olm" : "./modules/outlearn-values-exercise.md"}
   ],
 
   "assets" : [
