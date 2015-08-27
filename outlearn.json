@@ -11,6 +11,7 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "netflix-culture-deck"},
+        {"module" : "hubspot-culture-code"},
         {"page" : "./pages/closing.md"}
       ]
     }
@@ -18,6 +19,7 @@
 
   "modules" : [
     {"olm" : "./modules/netflix-culture-deck.md"}
+    {"olm" : "./modules/hubspot-culture-deck.md"}
   ],
 
   "assets" : [
