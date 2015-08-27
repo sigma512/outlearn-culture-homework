@@ -25,7 +25,7 @@ Netflix was a classic disruptor company that redefined how people are entertaine
 # Is it For Real?
 Having a nice deck is one thing. Putting the ideas into practice is quite another. Review the following resources and then come back and answer some of the questions.
 
-<!-- @link, "url" : "http://www.quora.com/Whats-it-like-to-work-at-Netflix", "text": "Read the Quora thread about what's it like to work at Netflix" -->
+<!-- @link, "url" : "https://www.evernote.com/l/AAMjmVu3zz1CvpckOtMUvbqPVIy2r--k7lI", "text": "Read the Quora thread about what's it like to work at Netflix" -->
 
 <!-- @link, "url" : "https://www.evernote.com/l/AAPJQ72Sc-tAaJfL2oHrPSrDRjQF6dzH4Nw", "text": "Read the Glassdoor reviews of Netflix (free registration required)." -->
 
