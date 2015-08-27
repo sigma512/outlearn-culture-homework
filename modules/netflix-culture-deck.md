@@ -16,6 +16,48 @@
 Netflix was a classic disruptor company that redefined how people are entertained by long form video content. Reid Hoffman, their maverick CEO, put together this culture deck to capture what he believes makes Netflix special. He believes that these values and principles have helped them succeed through strategy changes, big crises, and big growth. As you review the deck, think critically about what you like/dislike, what you think is most relevant to Outlearn, and what may be missing.
 <!-- @link, "url" : "https://www.evernote.com/shard/s3/sh/e361f812-84e9-4284-8923-41e560c434a9/7ef54de35d503c09", "text": "Read the Netflix Culture Deck" -->
 
+<!-- @multipleChoice -->
+Who is exempted from the Netflix "Freedom and Responsibility" culture?
+- [ ] Salaried employees
+- [X] Hourly employees
+- [ ] No one is exempt.
+Netflix says that their hourly employees "have more structured job roles."
+<!-- @end -->
+
+<!-- @multipleChoice -->
+According to Netflix, "real company values are the ____________ and the ____________ that we particularly value in fellow employees."
+- [ ] interests and behaviors
+- [ ] skills and aspirations
+- [X] behaviors and skills
+- [ ] manners and habits
+Netflix says that their hourly employees "have more structured job roles."
+<!-- @end -->
+
+<!-- @multipleChoice -->
+According to Netflix, a great workplace is ________________.
+- [ ] peace and harmony
+- [X] stunning colleagues
+- [ ] amazing perks and benefits
+- [ ] frequent praise and recognition
+Netflix says that their perks and benefits are designed to efficiently attract stunning colleagues.
+<!-- @end -->
+
+<!-- @multipleChoice -->
+What are the Netflix 9 Values?
+- [X] Judgment, Curiosity, Passion, Communication, Innovation, Honesty, Impact, Courage, Selflessness
+- [ ] Kindness, Curiosity, Passion, Clarity, Innovation, Honesty, Impact, Courage, Selflessness
+- [ ] Judgment, Speed, Passion, Communication, Innovation, Fun, Impact, Courage, Selflessness
+<!-- @end -->
+
+<!-- @multipleChoice -->
+What is the Netflix view on brilliant jerks?"
+- [ ] They are a necessary evil.
+- [ ] They are usually Asperger's sufferers who deserve empathy, not scorn.
+- [ ] They can and should be re-habilitated through tough love.
+- [X] They are not worth the cost to teamwork.
+Netflix says that diverse styles are fine as long as people exemplify the 9 values.
+<!-- @end -->
+
 <!-- @section -->
 # Is it For Real?
 Having a nice deck is one thing. Putting the ideas into practice is quite another. Review the following resources and then come back and answer some of the questions.
