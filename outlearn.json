@@ -17,7 +17,7 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/netflix-culture-deck.md"},
+    {"olm" : "./modules/netflix-culture-deck.md"}
   ],
 
   "assets" : [
