@@ -30,7 +30,6 @@ According to Netflix, "real company values are the ____________ and the ________
 - [ ] skills and aspirations
 - [X] behaviors and skills
 - [ ] manners and habits
-Netflix says that their hourly employees "have more structured job roles."
 <!-- @end -->
 
 <!-- @multipleChoice -->
@@ -51,7 +50,7 @@ According to the deck, Netflix claims to be a _______________, not a ___________
 <!-- @end -->
 
 <!-- @multipleChoice -->
-What is the Netflix view on brilliant jerks?"
+What is the Netflix view on brilliant jerks?
 - [ ] They are a necessary evil.
 - [ ] They are usually Asperger's sufferers who deserve empathy, not scorn.
 - [ ] They can and should be re-habilitated through tough love.
