@@ -17,4 +17,4 @@
 
 Netflix was a classic disruptor company that redefined how people are entertained by long form video content. Reid Hoffman, their maverick CEO, has done a fantastic job of defining a culture that has helped them attract and manage great people through early exploration, market fit, strategy changes, big crises, and incredible growth. This deck is a classic.
 
-< !-- @link, "url" : "http://www.slideshare.net/reed2001/culture-1798664", "text": "Read the Netflix Culture Deck" -->
+<!-- @link, "url" : "http://www.slideshare.net/reed2001/culture-1798664", "text": "Read the Netflix Culture Deck" -->
