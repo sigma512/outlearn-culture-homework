@@ -10,7 +10,7 @@
       "privacy" : "private",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "modules/netflix-culture-deck"},
+        {"module" : "/modules/netflix-culture-deck"},
         {"page" : "./pages/closing.md"}
       ]
     }
