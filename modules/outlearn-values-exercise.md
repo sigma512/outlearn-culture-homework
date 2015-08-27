@@ -3,7 +3,7 @@
 "name": "outlearn-values-exercise",
 "version" : "0.1",
 "title" : "Outlearn Values Exercise",
-"description" : "We have a retention crisis. New Deloitte research shows that culture, engagement, and employee retention are now the top talent challenges facing business leaders. More than half business leaders rate this issue “urgent” – up from only around 20% last year.",
+"description" : "You are going to help define the Outlearn Culture by listing and defending the values and principles that you are most passionate about ",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
 "author" : "Jeff Whatcott",
