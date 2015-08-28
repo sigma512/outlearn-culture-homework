@@ -13,9 +13,9 @@
 
 <!-- @section -->
 # What's This Code?
-HubSpot is a very successful company that has been notable from the start as having strong views on culture. They are also based in Boston and are a fellow General Catalyst portfolio company that has generated a lot of buzz and had significant financial success. We should be aware of what they up to.
+HubSpot is a very successful company that has been notable from the start as having strong views on culture. They are also based in Boston and they are a fellow General Catalyst portfolio company that is about 8 years ahead of us. Given the similarities, we should all study them pretty closely.
 
-The HubSpot executive team freely attributes many elements of their culture to the classic [Netflix culture deck](http://www.slideshare.net/reed2001/culture-1798664), but they have refined and added many attributes that are borrowed from other company cultures or are unique to them. We are including HubSpot here as a Netflix cultural derivative that has met with some market success, but also had a few detractors.
+The HubSpot executive team freely attributes many elements of their culture to the classic [Netflix culture deck](http://www.slideshare.net/reed2001/culture-1798664), but they have refined and added many attributes that are borrowed from other company cultures or are unique to them.
 <!-- @link, "url" : "https://www.evernote.com/l/AAMmvxIx1x1AtoCK6dsru3loiwxcufqItFM", "text": "Read the HubSpot Culture Code." -->
 
 <!-- @multipleChoice -->
