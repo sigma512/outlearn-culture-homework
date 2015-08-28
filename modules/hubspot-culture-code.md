@@ -12,7 +12,7 @@
 -->
 
 <!-- @section -->
-# What's This Code?
+#What's This Code?
 HubSpot is a very successful company that has been notable from the start as having strong views on culture. They are also based in Boston and they are a fellow General Catalyst portfolio company that is about 8 years ahead of us. Given the similarities, we should all study them pretty closely.
 
 The HubSpot executive team freely attributes many elements of their culture to the classic [Netflix culture deck](http://www.slideshare.net/reed2001/culture-1798664), but they have refined and added many attributes that are borrowed from other company cultures or are unique to them.
