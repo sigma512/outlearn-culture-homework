@@ -65,7 +65,7 @@ Netflix says that diverse styles are fine as long as people exemplify the 9 valu
 Having a nice deck is one thing. Putting the ideas into practice is quite another. Review the following resources and then come back and answer some of the questions.
 <!-- @link, "url" : "https://www.evernote.com/l/AAMjmVu3zz1CvpckOtMUvbqPVIy2r--k7lI", "text": "Read the Quora thread about what's it like to work at Netflix" -->
 <!-- @link, "url" : "https://www.evernote.com/l/AAPJQ72Sc-tAaJfL2oHrPSrDRjQF6dzH4Nw", "text": "Read the Glassdoor reviews of Netflix." -->
-<!-- @task, "hasDeliverable" : true, "text" : "Describe your opinions about how Netflix has or has not been able to live up to the ideals in their culture deck?"-->
+<!-- @task, "hasDeliverable" : true, "text" : "Describe your opinions about how Netflix has or has not been able to live up to the ideals in their culture deck."-->
 
 <!-- @section -->
 # A Few More Takes on Netflix
