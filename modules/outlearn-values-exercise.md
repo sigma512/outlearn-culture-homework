@@ -14,7 +14,7 @@
 <!-- @section -->
 
 #Values, Principles, Practices, and Rituals
-As have seen in the readings, companies put a many items in their "culture" bucket over time. We will do the same, but we want to start simple. The starting point for us will be a simple list of the **core values and principles** that guide who we hire/reward/promote/fire and how we will operate as we scale the organization. We can add things to the list over time. We will also eventually define a set of **core practices and rituals** that help us remember and honor our core values and principles in visible ways, but the first step is to define the list of core values and principles.
+As we've seen in the readings, companies put a many items in their "culture" bucket over time. We will do the same, but we want to start simple. The starting point for us will be a simple list of the **core values and principles** that guide who we hire/reward/promote/fire and how we will operate as we scale the organization. We can add things to the list over time. We will also eventually define a set of **core practices and rituals** that help us remember and honor our core values and principles in visible ways, but the first step is to define the list of core values and principles.
 
 # The Process
 We hope to have the Outlearn core values and principles defined by September 18, 2015. We want everyone to have an active voice in this process. Here are the steps.
