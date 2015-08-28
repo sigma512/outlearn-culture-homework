@@ -3,7 +3,7 @@
 "name": "netflix-culture-deck",
 "version" : "0.1",
 "title" : "The Netflix Culture Deck",
-"description" : "The latest version of the landmark Netflix culture presentation.",
+"description" : "Netflix is a startup culture icon. Their culture desk is a classic must read. But are they really living up to their lofty aspirations?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
 "author" : "Jeff Whatcott",
@@ -13,7 +13,7 @@
 
 <!-- @section -->
 # What's This Deck?
-Netflix is a classic disruptor company that redefined long form video entertainment. Reid Hoffman, their maverick CEO, and Patty McCord, their Chief People Officer, put together this culture deck to capture what they believe makes Netflix special. They believe that these values and principles have helped Netflix succeed through strategy changes, big crises, and big growth. 
+Netflix is a classic disruptor company that redefined long form video entertainment. Reid Hoffman, their maverick CEO, and Patty McCord, their Chief People Officer, put together this culture deck to capture what they believe makes Netflix special. They believe that these values and principles have helped Netflix succeed through strategy changes, big crises, and big growth.
 
 As you review the deck, think critically about what you like/dislike, what you think is most relevant to Outlearn, and what may be missing.
 <!-- @link, "url" : "https://www.evernote.com/shard/s3/sh/e361f812-84e9-4284-8923-41e560c434a9/7ef54de35d503c09", "text": "Read the Netflix Culture Deck" -->

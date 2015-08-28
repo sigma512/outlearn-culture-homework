@@ -3,7 +3,7 @@
 "name": "why-culture-matters",
 "version" : "0.1",
 "title" : "Why Culture Matters",
-"description" : "We have a retention crisis. New Deloitte research shows that culture, engagement, and employee retention are now the top talent challenges facing business leaders. More than half business leaders rate this issue “urgent” – up from only around 20% last year.",
+"description" : "Culture schmulture! Is this all just corporate speak or is there really something important here? Will our future colleagues really care about our culture as long as we pay well and provide an uninterrupted supply of bananas?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
 "author" : "Jeff Whatcott",

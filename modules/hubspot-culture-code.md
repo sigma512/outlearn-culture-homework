@@ -3,7 +3,7 @@
 "name": "hubspot-culture-code",
 "version" : "0.1",
 "title" : "The Hubspot Culture Code",
-"description" : "The latest version of the Hubspot culture presentation.",
+"description" : "HubSpot is a local Boston unicorn that has been maniacal about their culture. How did they tweak the Netflix culture to suit their tastes? How have they done at being true to their culture when a crisis hits?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
 "author" : "Jeff Whatcott",
@@ -74,7 +74,7 @@ Employees personally request titles from Dharmesh Shah, CTO.
 Having a nice deck is one thing. Putting the ideas into practice is quite another. Review the following resources and then come back and answer some of the questions.
 <!-- @link, "url" : "http://www.betaboston.com/news/2015/07/30/hubspot-ceo-and-cto-discuss-firing-of-companys-third-founder-over-ethical-lapse/", "text": "Read the Beta Boston article." -->
 <!-- @link, "url" : "https://www.evernote.com/l/AAMyJ9fJrHRHW74XYmc4Q_bwrFY5anAi_tM", "text": "Read the Glassdoor reviews of HubSpot." -->
-<!-- @task, "hasDeliverable" : true, "text" : "Describe your opinions about how HubSpot has or has not been able to live up to the ideals in their culture code?"-->
+<!-- @task, "hasDeliverable" : true, "text" : "What, if anything, does the firing of Mike Volpe tell us about the HubSpot Culture?"-->
 
 <!-- @section -->
 # What's Your Take?
