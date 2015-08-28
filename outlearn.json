@@ -10,9 +10,10 @@
       "privacy" : "private",
       "pages" : [
         {"page" : "./pages/welcome.md"},
+        {"module" : "why-culture-matters"},
         {"module" : "netflix-culture-deck"},
         {"module" : "hubspot-culture-code"},
-        {"module" : "why-culture-matters"},
+        {"module" : "the-amazon-culture"},
         {"module" : "outlearn-values-exercise"},
         {"page" : "./pages/closing.md"}
       ]
@@ -23,6 +24,7 @@
     {"olm" : "./modules/netflix-culture-deck.md"},
     {"olm" : "./modules/hubspot-culture-code.md"},
     {"olm" : "./modules/why-culture-matters.md"},
+    {"olm" : "./modules/the-amazon-culture.md"},
     {"olm" : "./modules/outlearn-values-exercise.md"}
   ],
 
