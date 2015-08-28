@@ -6,7 +6,7 @@
 "description" : "Netflix is a startup culture icon. Their culture desk is a classic must read. But are they really living up to their lofty aspirations?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
-"author" : "Jeff Whatcott",
+"author" : "Jeff Whatcott & Will Koffel",
 "license" : "CC BY 4.0"
 }
 -->

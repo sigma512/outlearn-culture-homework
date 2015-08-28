@@ -6,7 +6,7 @@
 "description" : "Culture schmulture! Is this all just corporate speak or is there really something important here? Will our future colleagues really care about our culture as long as we pay well and provide an uninterrupted supply of bananas?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
-"author" : "Jeff Whatcott",
+"author" : "Jeff Whatcott & Will Koffel",
 "license" : "CC BY 4.0"
 }
 -->
