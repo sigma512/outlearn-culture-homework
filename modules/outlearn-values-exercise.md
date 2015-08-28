@@ -6,7 +6,7 @@
 "description" : "It's time for you to show your cards. What do you want the Outlearn culture to be? How will we come together as a team to define it?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
-"author" : "Jeff Whatcott",
+"author" : "Jeff Whatcott & Will Koffel",
 "license" : "CC BY 4.0"
 }
 -->

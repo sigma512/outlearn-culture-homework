@@ -75,6 +75,5 @@ The Netflix culture deck has become a classic within the startup world. Here are
 
 <!-- @section -->
 # What's Your Take?
-Now it is time for you to weigh in.
 <!-- @task, "hasDeliverable" : true, "text" : "List 3-5 aspects of Netflix culture that you feel are most applicable to Outlearn."-->
 <!-- @task, "hasDeliverable" : true, "text" : "What's missing from the Netflix Culture Deck?"-->

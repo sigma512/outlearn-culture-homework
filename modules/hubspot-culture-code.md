@@ -6,7 +6,7 @@
 "description" : "HubSpot is a local Boston unicorn that has been maniacal about their culture. How did they tweak the Netflix culture to suit their tastes? How have they done at being true to their culture when a crisis hits?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-27,
-"author" : "Jeff Whatcott",
+"author" : "Jeff Whatcott & Will Koffel",
 "license" : "CC BY 4.0"
 }
 -->
@@ -78,6 +78,5 @@ Having a nice deck is one thing. Putting the ideas into practice is quite anothe
 
 <!-- @section -->
 # What's Your Take?
-Now it is time for you to weigh in.
 <!-- @task, "hasDeliverable" : true, "text" : "List 3-5 aspects of HubSpot culture that you feel are most applicable to Outlearn."-->
 <!-- @task, "hasDeliverable" : true, "text" : "What's missing from the HubSpot Culture Code?"-->

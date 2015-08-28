@@ -6,7 +6,7 @@
 "description" : "The Amazon culture has been in the news lately, and not in a good way. What should we learn from their experience?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-28,
-"author" : "Jeff Whatcott",
+"author" : "Jeff Whatcott & Will Koffel",
 "license" : "CC BY 4.0"
 }
 -->
@@ -52,6 +52,5 @@ The Amazon culture has been under the microscope lately, starting with a scathin
 
 <!-- @section -->
 # What's Your Take?
-Now it is time for you to weigh in.
 <!-- @task, "hasDeliverable" : true, "text" : "What, if anything, should Outlearn take away from the Amazon experience of defining, implementing, and defending company culture?"-->
 <!-- @task, "hasDeliverable" : true, "text" : "What, if anything, should Jeff Bezos do in response to the recent bad press?"-->

@@ -19,6 +19,5 @@ Josh Bersin is an analyst who covers HR, talent, and learning topics at Deloitte
 
 <!-- @section -->
 # What's Your Take?
-Now it is time for you to weigh in.
 <!-- @task, "hasDeliverable" : true, "text" : "Explain which of the four types of culture in the Competing Values Framework appeals most to you and justify your answer."-->
 <!-- @task, "hasDeliverable" : true, "text" : "Do you agree that culture is more important than compensation? Why or why not?"-->
