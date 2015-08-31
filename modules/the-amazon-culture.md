@@ -2,7 +2,7 @@
 {
 "name": "the-amazon-culture",
 "version" : "0.1",
-"title" : "The Amazon Cultural Train Wreck",
+"title" : "The Amazon Culture",
 "description" : "The Amazon culture has been in the news lately, and not in a good way. What should we learn from their experience?",
 "homepage" : "https://github.com/sigma-512/outlearn-culture-homework",
 "freshnessDate" : 2015-08-28,
