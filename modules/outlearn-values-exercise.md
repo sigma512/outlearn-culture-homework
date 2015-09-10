@@ -22,7 +22,7 @@ As we've seen in the readings, companies put many items in their "culture" bucke
 We hope to have the Outlearn core values and principles defined by September 18, 2015. We want everyone to have an active voice in this process. Here are the steps.
 
  * September 10 - Everyone completes this learning path, including the assignment below, by September 10.
- * September 15 - We have a full group discussion on where we review input from everyone on the values and principles.
+ * September 16 - We have a group discussion where we review input from everyone on the values and principles.
  * September 17 - Jeff and Will circulate a proposed final draft of the list of values and principles.
  * September 18 - We publish the final version, which will stand forevermore, or until we make the first edit, whichever comes first.
 
