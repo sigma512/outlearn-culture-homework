@@ -70,8 +70,8 @@ Having a nice deck is one thing. Putting the ideas into practice is quite anothe
 <!-- @section -->
 # A Few More Takes on Netflix
 The Netflix culture deck has become a classic within the startup world. Here are some additional articles that discuss aspects of it.
-<!-- @link, "url" : "http://firstround.com/review/The-woman-behind-the-Netflix-Culture-doc/", "text": "Read about how Netflix reinvented HR." -->
-<!-- @link, "url" : "https://hbr.org/2014/01/how-netflix-reinvented-hr", "text": "Read about the woman behind the deck." -->
+<!-- @link, "url" : "http://firstround.com/review/The-woman-behind-the-Netflix-Culture-doc/", "text": "Read about the woman behind the deck." -->
+<!-- @link, "url" : "https://hbr.org/2014/01/how-netflix-reinvented-hr", "text": "Read about how Netflix reinvented HR." -->
 
 <!-- @section -->
 # What's Your Take?
