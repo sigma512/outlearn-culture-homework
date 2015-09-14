@@ -16,7 +16,7 @@
 Netflix is a classic disruptor company that redefined long form video entertainment. Reid Hoffman, their maverick CEO, and Patty McCord, their Chief People Officer, put together this culture deck to capture what they believe makes Netflix special. They believe that these values and principles have helped Netflix succeed through strategy changes, big crises, and big growth.
 
 As you review the deck, think critically about what you like/dislike, what you think is most relevant to Outlearn, and what may be missing.
-<!-- @link, "url" : "https://www.evernote.com/shard/s3/sh/e361f812-84e9-4284-8923-41e560c434a9/7ef54de35d503c09", "text": "Read the Netflix Culture Deck" -->
+<!-- @link, "url" : "http://www.keithrull.com/blog/wp-content/uploads/2013/01/netflix_culture.pdf", "text": "Read the Netflix Culture Deck" -->
 
 <!-- @multipleChoice -->
 Who is exempted from the Netflix "Freedom and Responsibility" culture?
@@ -63,8 +63,8 @@ Netflix says that diverse styles are fine as long as people exemplify the 9 valu
 <!-- @section -->
 # Is it For Real?
 Having a nice deck is one thing. Putting the ideas into practice is quite another. Review the following resources and then come back and answer some of the questions.
-<!-- @link, "url" : "https://www.evernote.com/l/AAMjmVu3zz1CvpckOtMUvbqPVIy2r--k7lI", "text": "Read the Quora thread about what's it like to work at Netflix" -->
-<!-- @link, "url" : "https://www.evernote.com/l/AAPJQ72Sc-tAaJfL2oHrPSrDRjQF6dzH4Nw", "text": "Read the Glassdoor reviews of Netflix." -->
+<!-- @link, "url" : "http://www.quora.com/Whats-it-like-to-work-at-Netflix", "text": "Read the Quora thread about what's it like to work at Netflix" -->
+<!-- @link, "url" : "http://www.glassdoor.com/Reviews/Netflix-Reviews-E11891.htm?filter.jobTitleFTS=engineering&filter.defaultEmploymentStatuses=false&filter.employmentStatus=REGULAR", "text": "Read the engineering Glassdoor reviews of Netflix." -->
 <!-- @task, "hasDeliverable" : true, "text" : "Describe your opinions about how Netflix has or has not been able to live up to the ideals in their culture deck."-->
 
 <!-- @section -->

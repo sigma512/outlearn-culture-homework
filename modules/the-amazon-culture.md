@@ -15,7 +15,7 @@
 # What is The Amazon Culture?
 Amazon has been an iconic disruptor and innovator in both online retail and cloud infrastructure services. Jeff Bezos, the founder and CEO, has been a vocal driver and advocate for the Amazon work culture. Here are some of the core artifacts that capture the Amazon culture.
 <!-- @link, "url" : "http://www.amazon.jobs/principles", "text": "Read the Amazon Leadership Principles." -->
-<!-- @link, "url" : "https://www.evernote.com/l/AAMvVfGQlIBOireKZRj8-irGCSd2LQfopcU", "text": "Read the Secrets of Bezos article." -->
+<!-- @link, "url" : "http://www.bloomberg.com/bw/articles/2013-10-10/jeff-bezos-and-the-age-of-amazon-excerpt-from-the-everything-store-by-brad-stone", "text": "Read the Secrets of Bezos article." -->
 
 <!-- @multipleChoice -->
 The Amazon door desks are an expression of which Amazon Leadership Principle?
